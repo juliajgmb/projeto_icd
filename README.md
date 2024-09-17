@@ -6,9 +6,11 @@ Este repositório contém análises dos dados do RREO (Relatório Resumido da Ex
 
 Os conjuntos de dados utilizados foram obtidos diretamente da SINCONF e estão disponíveis nos seguintes arquivos:
 
-![finbraRREO2021.1](https://img.shields.io/badge/microdados_ed_basica_2022.csv:%20Dados%20do%20censo%20escolar%20de%202022.-black)
+![finbraRREO2021.1](https://img.shields.io/badge/finbraRREO2021.1.csv:%20Dados%20do%20RREO%20de%2021.-black)
 
-![finbraRREO2022.1](https://img.shields.io/badge/microdados_ed_basica_2023.csv:%20Dados%20do%20censo%20escolar%20de%202023.-blue)
+![finbraRREO2022.1](https://img.shields.io/badge/finbraRREO2022.1.csv:%20Dados%20do%20RREO%20de%2022.-blue)
+
+![finbraRREO2023.1](https://img.shields.io/badge/finbraRREO2023.1.csv:%20Dados%20do%20RREO%20de%2023.-white)
 
 ### Autores 
 Emyle Santos, João Vittor e Júlia Gabriele
@@ -20,11 +22,11 @@ Emyle Santos, João Vittor e Júlia Gabriele
 
 ![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)
 
-![Jupyter](https://img.shields.io/badge/pandas-white?style=for-the-badge&logo=jupyternotebook)
+![Jupyter](https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=jupyter)
 
 ## Perguntas
-Quais variáveis têm maior correlação com o desempenho das escolas no Censo Escolar?
+Quais foram as principais fontes de receita da entidade nos anos de 2021, 2022 e 2023?
 
-Existem padrões significativos de desempenho educacional entre diferentes regiões ou tipos de escolas no Brasil?
+Como se comportou a despesa total da entidade em cada ano e quais foram as categorias de despesa mais significativas?
 
-Qual é a relação entre a infraestrutura escolar e a inclusão dos PCDs?
+Quais foram os principais investimentos realizados pela entidade em 2021, 2022 e 2023?
