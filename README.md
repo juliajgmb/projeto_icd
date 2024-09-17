@@ -6,11 +6,11 @@ Este repositório contém análises dos dados do RREO (Relatório Resumido da Ex
 
 Os conjuntos de dados utilizados foram obtidos diretamente da SINCONF e estão disponíveis nos seguintes arquivos:
 
-![finbraRREO2021.1](https://img.shields.io/badge/finbraRREO2021.1.csv:%20Dados%20do%20RREO%20de%2021.-black)
+![finbraRREO2021.1](https://img.shields.io/badge/finbraRREO2021.1.csv:%20Dados%20do%20RREO%20de%202021.-black)
 
-![finbraRREO2022.1](https://img.shields.io/badge/finbraRREO2022.1.csv:%20Dados%20do%20RREO%20de%2022.-blue)
+![finbraRREO2022.1](https://img.shields.io/badge/finbraRREO2022.1.csv:%20Dados%20do%20RREO%20de%202022.-blue)
 
-![finbraRREO2023.1](https://img.shields.io/badge/finbraRREO2023.1.csv:%20Dados%20do%20RREO%20de%2023.-white)
+![finbraRREO2023.1](https://img.shields.io/badge/finbraRREO2023.1.csv:%20Dados%20do%20RREO%20de%202023.-white)
 
 ### Autores 
 Emyle Santos, João Vittor e Júlia Gabriele
