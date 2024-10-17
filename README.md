@@ -10,6 +10,7 @@ Os conjuntos de dados foram obtidos diretamente da SINCONF e estão disponíveis
 
 | Ano  | Dataset |
 |:----:|:-------:|
+| 2020 | ![finbraRREO2020.1](https://img.shields.io/badge/finbraRREO2020.1.csv-Dados%20do%20RREO%20de%202021-gray) |
 | 2021 | ![finbraRREO2021.1](https://img.shields.io/badge/finbraRREO2021.1.csv-Dados%20do%20RREO%20de%202021-black) |
 | 2022 | ![finbraRREO2022.1](https://img.shields.io/badge/finbraRREO2022.1.csv-Dados%20do%20RREO%20de%202022-blue)  |
 | 2023 | ![finbraRREO2023.1](https://img.shields.io/badge/finbraRREO2023.1.csv-Dados%20do%20RREO%20de%202023-white) |
